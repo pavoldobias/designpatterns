@@ -1,4 +1,4 @@
-package testing;
+package mvc;
 
 public class StudentView {
 	public void printStudentDetails(String studentName, String studentRollNo) {

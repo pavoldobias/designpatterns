@@ -1,4 +1,4 @@
-package testing;
+package mvc;
 
 public class Student {
 	private String rollNo;
